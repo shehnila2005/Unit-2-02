@@ -43,4 +43,4 @@ jobs:
           DEFAULT_BRANCH: master
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           [![linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)   
+          
